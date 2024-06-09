@@ -1,0 +1,14 @@
+INNER JOIN faqat ikkala jadvaldagi qiymatlarga mos keladigan qatorlani qaytaradi
+LEFT JOIN chap jadvaldagi hamma qatorlani va o'ng jadvaldan mos keladigan qatorlarni qaytaradi hech qanday moslik topilmasa, o'ng jadvaldagi ustunlarni  NULL qin qoyadi
+RIGHT JOIN o'ng jadvaldagi barcha qator va chap jadvaldan mos keladigan qatorlarni qaytaradi. Hech qanday moslik topilmasa, chap jadvaldagi ustunlar uchun NULL qilib qoyad
+
+user brauzerga URL ni kiritish yoki veb site bilan ishlashi orqali HTTP zapros boshlidi
+
+server  HTTP zaprosini oladi. server ushbu so'rovni WSGI   orqali Django ga  yuboradi
+
+Django serverlari va veb-ilovalar o'rtasida standart interfeys sifatida WSGI ishlatiladi server zaprosi Django tomonidan taqdim etilgan WSGI ilova ob'ektiga uzatadi
+
+Django qabul qilingan WSGI so‘rovidan `HttpRequest` obyektini yaratadi. Ushbu obyekt soʻrov haqidagi metamaʼlumotlarni method, headers, URL parameters larni oʻz ichiga oladi
+
+
+telegram bot: https://t.me/wsdfvca_bot
